@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Matiw Rivera Cascante, a passionate Systems and Informatics Engineering student from Costa Rica. I love solving problems, creating new ideas, and bringing them to life.
+I am a passionate Systems Engineering and Computer Science student from Costa Rica. I solve problems, create new ideas and bring them to life.
 
 - 🔭 Currently, I'm in my second year of Systems Engineering at the National University of Costa Rica.
 - 📫 How to reach me: matiw777@gmail.com
@@ -17,4 +17,4 @@ Hello! I'm Matiw Rivera Cascante, a passionate Systems and Informatics Engineeri
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiwRC18)](https://github.com/MatiwRC18/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiwRC18&show_icons=true&theme=tokyonight)](https://github.com/MatiwRC18/github-readme-stats)
