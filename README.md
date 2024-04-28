@@ -9,8 +9,10 @@ Hello! I'm Matiw Rivera Cascante, a passionate Systems and Informatics Engineeri
 
 ## Languages and Tools
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
+<p float="left">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
+</p>
