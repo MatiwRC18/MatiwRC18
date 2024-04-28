@@ -4,7 +4,7 @@
 
 I am a passionate Systems Engineering and Computer Science student from Costa Rica. I solve problems, create new ideas and bring them to life.
 
-- 🔭 Currently, I'm in my second year of Systems Engineering at the National University of Costa Rica.
+- 🔭 Currently, I'm in my second year of Systems Engineering at Universidad Nacional de Costa Rica.
 - 📫 How to reach me: matiw777@gmail.com
 
 ## Languages and Tools
