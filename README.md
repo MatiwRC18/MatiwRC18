@@ -17,4 +17,6 @@ I am a passionate Systems Engineering and Computer Science student from Costa Ri
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiwRC18&show_icons=true&theme=tokyonight)](https://github.com/MatiwRC18/github-readme-stats)
+<img alt="my stats" align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=MatiwRC18&show_icons=true&theme=tokyonight"/>
+
+<img alt="top langs" align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&layout=compact&show_icons=true&theme=tokyonight"/>
