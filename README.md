@@ -9,8 +9,8 @@ Hello! I'm Matiw Rivera Cascante, a passionate Systems and Informatics Engineeri
 
 ## Languages and Tools
 
-![C++](https://img.shields.io/badge/C++-informational?logo=c%2B%2B&logoColor=white&color=00599C)
-![Java](https://img.shields.io/badge/Java-informational?logo=java&logoColor=white&color=007396)
-![CSS](https://img.shields.io/badge/CSS-informational?logo=css3&logoColor=white&color=1572B6)
-![Oracle](https://img.shields.io/badge/Oracle-informational?logo=oracle&logoColor=white&color=F80000)
-![Git](https://img.shields.io/badge/Git-informational?logo=git&logoColor=white&color=F05032)
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-yellow?style=flat&logo=java)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
+![Oracle](https://img.shields.io/badge/Oracle-yellow?style=flat&logo=oracle)
+![Git](https://img.shields.io/badge/Git-blue?style=flat&logo=git)
