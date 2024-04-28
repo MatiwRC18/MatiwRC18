@@ -16,3 +16,5 @@ Hello! I'm Matiw Rivera Cascante, a passionate Systems and Informatics Engineeri
   <img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiwRC18)](https://github.com/MatiwRC18/github-readme-stats)
