@@ -1,16 +1,33 @@
-# Hello! I'm Matiw Rivera Cascante
+<!DOCTYPE html>
+<html lang="en">
 
-## About Me
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matiw Rivera Cascante - Profile</title>
+</head>
 
-Hello! I'm Matiw Rivera Cascante, a passionate Systems and Informatics Engineering student from Costa Rica. I love solving problems, creating new ideas, and bringing them to life.
+<body>
 
-- 🔭 Currently, I'm in my second year of Systems Engineering at the National University of Costa Rica.
-- 📫 How to reach me: matiw777@gmail.com
+    <h1>Hello! I'm Matiw Rivera Cascante</h1>
 
-## Languages and Tools
+    <h2>About Me</h2>
 
-![C++](https://img.shields.io/badge/C++-Expert-blue)
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![Oracle](https://img.shields.io/badge/Oracle-Intermediate-yellow)
-![Git](https://img.shields.io/badge/Git-Expert-blue)
+    <p>Hello! I'm Matiw Rivera Cascante, a passionate Systems and Informatics Engineering student from Costa Rica. I love solving problems, creating new ideas, and bringing them to life.</p>
+
+    <ul>
+        <li>🔭 Currently, I'm in my second year of Systems Engineering at the National University of Costa Rica.</li>
+        <li>📫 How to reach me: <a href="mailto:matiw777@gmail.com">matiw777@gmail.com</a></li>
+    </ul>
+
+    <h2>Languages and Tools</h2>
+
+    <img src="https://img.shields.io/badge/C++-Expert-blue" alt="C++">
+    <img src="https://img.shields.io/badge/Java-Intermediate-yellow" alt="Java">
+    <img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS">
+    <img src="https://img.shields.io/badge/Oracle-Intermediate-yellow" alt="Oracle">
+    <img src="https://img.shields.io/badge/Git-Expert-blue" alt="Git">
+
+</body>
+
+</html>
