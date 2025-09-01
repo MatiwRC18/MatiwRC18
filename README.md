@@ -1,22 +1,46 @@
-# Hello! I'm Matiw Rivera Cascante
+# Matiw Rivera Cascante  
 
-## About Me
+🎓 Systems Engineering student at Universidad Nacional de Costa Rica  
+🐧 Arch Linux user | 🔐 Cybersecurity enthusiast  
+💻 C++ & Java developer | Oracle DB & Docker  
 
-I am a passionate Systems Engineering and Computer Science student from Costa Rica. I solve problems, create new ideas and bring them to life.
+📫 Contact: **matiw777@gmail.com**  
 
-- 🔭 Currently, I'm in my second year of Systems Engineering at Universidad Nacional de Costa Rica.
-- 📫 How to reach me: matiw777@gmail.com
+---
 
 ## Languages and Tools
-
-<p float="left">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
+<p align="center">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" style="margin: 0 20px;"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" width="50" style="margin: 0 20px;"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" style="margin: 0 20px;"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker" width="50" style="margin: 0 20px;"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" style="margin: 0 20px;"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="50" style="margin: 0 20px;"/>
 </p>
 
-<img alt="my stats" align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=MatiwRC18&show_icons=true&theme=tokyonight"/>
+---
 
-<img alt="top langs" align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&layout=compact&show_icons=true&theme=tokyonight"/>
+## Interests
+- 🐧 Linux & customization  
+- 🔐 Cybersecurity & networking  
+- ⚡ Software optimization and backend systems  
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=MatiwRC18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Pinned Projects
+<p align="center">
+  <a href="https://github.com/MatiwRC18/UnoGame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiwRC18&repo=UnoGame&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/MatiwRC18/Proyecto-II-Ensamblador">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiwRC18&repo=Proyecto-II-Ensamblador&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
