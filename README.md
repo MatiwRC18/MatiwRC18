@@ -34,25 +34,9 @@ Still learning, but always curious and moving forward.
 - ⚙️ Backend development and automation  
 
 ---
-
-## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MatiwRC18's Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiwRC18&theme=tokyonight&hide_border=true" alt="MatiwRC18's Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=420" alt="MatiwRC18's Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MatiwRC18's Top Languages" width="60%"/>
-</p>
-
----
-
-## Featured Projects
-<p align="center">
-  <a href="https://github.com/MatiwRC18/UnoGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiwRC18&repo=UnoGame&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/MatiwRC18/Proyecto-II-Ensamblador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiwRC18&repo=Proyecto-II-Ensamblador&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
