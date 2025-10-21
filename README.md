@@ -1,10 +1,18 @@
 # Matiw Rivera Cascante  
 
 🎓 Systems Engineering student at Universidad Nacional de Costa Rica  
-🐧 Arch Linux user | 🔐 Cybersecurity enthusiast  
-💻 C++ & Java developer | Oracle DB & Docker  
+🐧 Linux user who enjoys digging into how things work under the hood  
+💻 Currently learning and improving in C++, Java, SQL, Docker, and system administration  
 
 📫 Contact: **matiw777@gmail.com**  
+
+---
+
+## About Me
+I'm a systems engineering student still in the process of finishing my degree.  
+At university, I’ve worked with **Java**, **C++**, and **SQL**, and used tools like **Docker**, **GitHub**, **Oracle**, and **DBeaver**.  
+I enjoy exploring Linux, automating setups, and tuning performance to get the most out of my environment.  
+Still learning, but always curious and moving forward.
 
 ---
 
@@ -21,9 +29,9 @@
 ---
 
 ## Interests
-- 🐧 Linux & customization  
-- 🔐 Cybersecurity & networking  
-- ⚡ Software optimization and backend systems  
+- 🐧 Linux customization and optimization  
+- 🔐 Cybersecurity and networking basics  
+- ⚙️ Backend development and automation  
 
 ---
 
@@ -31,12 +39,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MatiwRC18's Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiwRC18&theme=tokyonight&hide_border=true" alt="MatiwRC18's Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MatiwRC18's Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MatiwRC18's Top Languages" width="60%"/>
 </p>
 
 ---
 
-## Pinned Projects
+## Featured Projects
 <p align="center">
   <a href="https://github.com/MatiwRC18/UnoGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiwRC18&repo=UnoGame&theme=tokyonight&hide_border=true"/>
