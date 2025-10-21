@@ -29,8 +29,9 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=MatiwRC18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MatiwRC18's Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiwRC18&theme=tokyonight&hide_border=true" alt="MatiwRC18's Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MatiwRC18's Top Languages" height="165"/>
 </p>
 
 ---
