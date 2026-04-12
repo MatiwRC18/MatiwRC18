@@ -1,42 +1,44 @@
-# Matiw Rivera Cascante  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=120&section=header"/>
+</div>
 
-🎓 Systems Engineering student at Universidad Nacional de Costa Rica  
-🐧 Linux user who enjoys digging into how things work under the hood  
-💻 Currently learning and improving in C++, Java, SQL, Docker, and system administration  
+<h1 align="center">Hi, I'm Matiw Rivera 👋</h1>
 
-📫 Contact: **matiw777@gmail.com**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Engineering+Student;Full-Stack+Web+Developer;Linux+Daily+Driver;Always+Learning&font=Fira+Code&center=true&width=440&height=45&color=61DAFB&pause=1000"/>
+</p>
+
+<p align="center">
+  <b>Systems Engineering student</b> at Universidad Nacional de Costa Rica<br/>
+  📍 Costa Rica &nbsp;·&nbsp; 📫 matiw777@gmail.com &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/matiw-rivera-5b4629284">LinkedIn</a>
+</p>
 
 ---
 
 ## About Me
-I'm a systems engineering student still in the process of finishing my degree.  
-At university, I’ve worked with **Java**, **C++**, and **SQL**, and used tools like **Docker**, **GitHub**, **Oracle**, and **DBeaver**.  
-I enjoy exploring Linux, automating setups, and tuning performance to get the most out of my environment.  
-Still learning, but always curious and moving forward.
+
+I'm a systems engineering student at UNA, currently building my skills in full-stack web development.  
+I enjoy working close to the system level — I daily-drive Linux and like understanding how things work under the hood.  
+I use AI as part of my development workflow, not as a shortcut, but as a tool to move faster and think better.  
+Always learning, always building.
 
 ---
 
-## Languages and Tools
-<p align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" style="margin: 0 20px;"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" width="50" style="margin: 0 20px;"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" style="margin: 0 20px;"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker" width="50" style="margin: 0 20px;"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" style="margin: 0 20px;"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="50" style="margin: 0 20px;"/>
-</p>
+## Tech Stack
+
+| Web & Backend | Databases | Tools |
+|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
-## Interests
-- 🐧 Linux customization and optimization  
-- 🔐 Cybersecurity and networking basics  
-- ⚙️ Backend development and automation  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatiwRC18/MatiwRC18/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatiwRC18/MatiwRC18/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/MatiwRC18/MatiwRC18/output/github-contribution-grid-snake.svg"/>
+</picture>
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MatiwRC18's Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiwRC18&theme=tokyonight&hide_border=true" alt="MatiwRC18's Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiwRC18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=420" alt="MatiwRC18's Top Languages" height="165"/>
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=120&section=footer"/>
+</div>
