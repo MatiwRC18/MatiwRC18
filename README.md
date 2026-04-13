@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,50:7b00ff,100:ff00c8&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:00ff41,100:003300&height=120&section=header"/>
 </div>
 
 <h1 align="center">Hi, I'm Matiw Rivera 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Engineering+Student;Full-Stack+Web+Developer;Linux+Daily+Driver;Always+Learning&font=Fira+Code&center=true&width=440&height=45&color=9d00ff&pause=1000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=_+Booting+profile...;_+Loading+skills...;_+Deploying+awesomeness...;_+Access+granted.+Welcome!&font=Share+Tech+Mono&center=true&width=440&height=45&color=00ff41&pause=1000"/>
 </p>
 
 <p align="center">
@@ -36,5 +36,5 @@ Always learning, always building.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:7b00ff,100:00fff2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:00ff41,100:003300&height=120&section=footer"/>
 </div>
