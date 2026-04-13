@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,50:7b00ff,100:ff00c8&height=120&section=header"/>
 </div>
 
 <h1 align="center">Hi, I'm Matiw Rivera 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Engineering+Student;Full-Stack+Web+Developer;Linux+Daily+Driver;Always+Learning&font=Fira+Code&center=true&width=440&height=45&color=61DAFB&pause=1000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Engineering+Student;Full-Stack+Web+Developer;Linux+Daily+Driver;Always+Learning&font=Fira+Code&center=true&width=440&height=45&color=9d00ff&pause=1000"/>
 </p>
 
 <p align="center">
@@ -27,18 +27,14 @@ Always learning, always building.
 
 ## Tech Stack
 
-| Web & Backend | Databases | Tools |
-|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,html,css,nodejs,java,postgres,mongodb,git,github,docker,vscode,linux&theme=dark&perline=13"/>
+  </a>
+</p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatiwRC18/MatiwRC18/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatiwRC18/MatiwRC18/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/MatiwRC18/MatiwRC18/output/github-contribution-grid-snake.svg"/>
-</picture>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:7b00ff,100:00fff2&height=120&section=footer"/>
 </div>
